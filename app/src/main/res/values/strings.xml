@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">GPS Changer</string>
-    <string name="get">Get</string>
-    <string name="set">Set</string>
-    <string name="data_textView">当前日期</string>
-    <string name="copyright">版权所有 copyright 2018-2022 进阶成长</string>
-    <string name="time_textView">当前时间</string>
-</resources>
